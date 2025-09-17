@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://thenotebook.me/the-frist-page.html",
-            "url": "https://thenotebook.me/the-frist-page.html",
+            "id": "https://thenotebook.me/the-frist-page/",
+            "url": "https://thenotebook.me/the-frist-page/",
             "title": "THE FRIST PAGE",
             "summary": "Hi , Everyone This is the daily journal blog about how I learnt data science as a BCom graduate and about a small update on what I did on that day and how I solved some problems.&nbsp; Thank you&nbsp;",
             "content_html": "\n  <div class=\"post__toc\">\n    <h3>Welcome to Notebook</h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n\n  <p>\n    Hi , Everyone\n  </p>\n\n  <p>\n    This is the daily journal blog about how I learnt data science as a BCom graduate and about a small update on what I did on that day and how I solved some problems.&nbsp;\n  </p>\n\n  <p>\n    Thank you&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
